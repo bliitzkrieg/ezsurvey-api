@@ -1,2 +1,5 @@
 # Vagrant
 /.vagrant
+
+#Misc
+.tech_requirements.txt
